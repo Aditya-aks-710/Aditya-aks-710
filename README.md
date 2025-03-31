@@ -23,33 +23,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Tools & Frameworks**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" /> </p>
 ---
 
 ## 🏆 Competitive Programming  
-
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![AtCoder](https://img.shields.io/badge/AtCoder-5F9EA0?style=for-the-badge)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Code360](https://img.shields.io/badge/CodingNinjas-FF5722?style=for-the-badge)
-
-#### **🔥 Profiles**
-- **Codeforces**: [adi_tya_710](https://codeforces.com/profile/adi_tya_710)  
-- **LeetCode**: [aditya___001](https://leetcode.com/aditya___001)  
-- **AtCoder**: [adi_001](https://atcoder.jp/users/adi_001)  
-- **CodeChef**: [grindelwald_01](https://www.codechef.com/users/grindelwald_01)  
-- **Code360**: [HeWhoRemains](https://www.codingninjas.com/studio/profile/HeWhoRemains)  
-
----
 
 <p align="center"> <a href="https://codeforces.com/profile/adi_tya_710"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"> </a> <a href="https://leetcode.com/aditya___001"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="https://atcoder.jp/users/adi_001"> <img src="https://img.shields.io/badge/AtCoder-5F9EA0?style=for-the-badge"> </a> <a href="https://www.codechef.com/users/grindelwald_01"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"> </a> <a href="https://www.codingninjas.com/studio/profile/HeWhoRemains"> <img src="https://img.shields.io/badge/CodingNinjas-FF5722?style=for-the-badge"> </a> </p>
 
