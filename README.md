@@ -51,23 +51,14 @@
 
 ---
 
-### **📊 Stats & Activity**  
-
-#### **📈 Codeforces Rating**
-![Codeforces Rating](https://raw.githubusercontent.com/rohanray-code/codeforces-stats/main/output/adi_tya_710.svg)
-
-#### **📊 Codeforces Contest Performance**
-![Codeforces Contest Graph](https://cf.leed.at/graph/adi_tya_710)
-
-#### **💡 LeetCode Stats**
-![LeetCode Stats](https://leetcard.jacoblin.cool/aditya___001?theme=dark&font=Karma)
+<p align="center"> <a href="https://codeforces.com/profile/adi_tya_710"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"> </a> <a href="https://leetcode.com/aditya___001"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="https://atcoder.jp/users/adi_001"> <img src="https://img.shields.io/badge/AtCoder-5F9EA0?style=for-the-badge"> </a> <a href="https://www.codechef.com/users/grindelwald_01"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"> </a> <a href="https://www.codingninjas.com/studio/profile/HeWhoRemains"> <img src="https://img.shields.io/badge/CodingNinjas-FF5722?style=for-the-badge"> </a> </p>
 
 ---
 
-### **🔥 GitHub Activity**  
+### **📊 Stats & Activity**  
 
-#### **📅 GitHub Contribution Heatmap**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adi_tya_710&theme=dark&hide_border=true)
+#### **💡 LeetCode Stats**
+![LeetCode Stats](https://leetcard.jacoblin.cool/aditya___001?theme=dark&font=Karma)
 
 ---
 
