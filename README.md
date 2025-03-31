@@ -11,7 +11,7 @@
 ## 🚀 About Me  
 🎓 **Aspiring Developer | Tech Enthusiast**  
 🖥️ Passionate about **Competitive Programming, Open Source Development, Full Stack Web Development**  
-📚 Currently exploring **Efficient Algorithms, Problem-Solving Strategies, and Full-Stack Web Development**
+📚 Currently exploring **Efficient Algorithms, Problem-Solving Strategies, and Full-Stack Web Development**  
 ⚡ Fun fact: I talk to my bugs before I fix them! 🐞😂  
 
 ---
@@ -69,9 +69,6 @@
 #### **📅 GitHub Contribution Heatmap**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adi_tya_710&theme=dark&hide_border=true)
 
-#### **📈 GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi_tya_710&show_icons=true&theme=radical)
-
 ---
 
 ### **🔹 Contest Performance & Problem Solving Streaks**  
@@ -90,7 +87,6 @@
 
 ### 👀 Profile Visitors  
 ![Visitor Count](https://komarev.com/ghpvc/?username=adi_tya_710&label=Profile%20Views&color=blue&style=flat)
-
 
 ---
 
