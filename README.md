@@ -61,7 +61,7 @@
 ---
 
 ### 👀 Profile Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=adi_tya_710&label=Profile%20Views&color=blue&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=Aditya-aks-710&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
